@@ -1,0 +1,15 @@
+Files/
+Images/
+Include/
+Indicators/
+Libraries/
+Logs/
+Projects/
+
+Examples/
+Advisors/
+
+
+
+*.dat
+*.ex5

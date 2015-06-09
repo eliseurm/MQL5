@@ -1,6 +1,5 @@
 Files/
 Images/
-Include/
 Libraries/
 Logs/
 Projects/
@@ -8,6 +7,17 @@ Projects/
 Examples/
 Advisors/
 
+Arrays/
+Canvas/
+ChartObjects/
+Charts/
+Controls/
+Files/
+Strings/
+Tools/
+Trade/
+Include/Expert/
+Include/Indicators/
 
 
 *.dat
